@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/metrics-server/metrics-server:v0.3.7
+FROM docker pull k8s.gcr.io/kube-cross:v1.15.0-1
