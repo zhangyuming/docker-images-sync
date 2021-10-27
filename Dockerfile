@@ -1,1 +1,1 @@
-FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.32.0
+FROM gcr.io/up9-docker-hub/mizu/main:0.17.2
